@@ -33,6 +33,15 @@ function Example(args) {
             <NavItem>
               <NavLink href="/contatos">Contatos</NavLink>
             </NavItem>
+            <NavItem>
+              <NavLink href="/api">Teste de API</NavLink>
+            </NavItem>
+            <NavItem>
+              <NavLink href="/apidog">Teste apiDOG</NavLink>
+            </NavItem>
+            <NavItem>
+              <NavLink href="/img">Teste PlaceHolder</NavLink>
+            </NavItem>
             
             <UncontrolledDropdown nav inNavbar>
               <DropdownToggle nav caret>
