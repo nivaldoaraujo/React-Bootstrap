@@ -42,6 +42,9 @@ function Example(args) {
             <NavItem>
               <NavLink href="/img">Teste PlaceHolder</NavLink>
             </NavItem>
+            <NavItem>
+              <NavLink href="/usuarios">Usuarios</NavLink>
+            </NavItem>
             
             <UncontrolledDropdown nav inNavbar>
               <DropdownToggle nav caret>

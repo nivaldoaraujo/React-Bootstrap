@@ -7,8 +7,7 @@ import Contatos from "./Paginas/Contatos/Contatos";
 import Requisicao from "./Paginas/Requisicao/Requisicao";
 import ApiDog from "./Paginas/Requisicao/ApiDog";
 import PlaceHolder from './Paginas/Requisicao/PlaceHolder'
-
-
+import { ServerJason } from "./Paginas/Server-json/ServerJason";
 
 function AppRotes(){
     return(
@@ -21,6 +20,7 @@ function AppRotes(){
             <Route path="/api" element={ <Requisicao /> } ></Route>
             <Route path="/apidog" element={ <ApiDog /> } ></Route>
             <Route path="/img" element={ <PlaceHolder /> } ></Route>
+            <Route path="/usuarios" element={ <ServerJason /> } ></Route>
         </Routes>
         </BrowserRouter>
         </>

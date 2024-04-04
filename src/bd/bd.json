@@ -1,0 +1,42 @@
+{
+    "usuarios":[
+        {
+            "id": 1,
+            "nome": "Carlos Lins",
+            "email": "carlos_lac@ig.com.br"
+        },
+        {
+            "id": 2,
+            "nome": "Mônica Dias",
+            "email": "dias_mon@ig.com.br"
+        },
+        {
+            "id": 3,
+            "nome": "Julia Marina",
+            "email": "juju_marina@ig.com.br"
+        },
+        {
+            "id": 4,
+            "nome": "joão Macedo",
+            "email": "joao_macedo@ig.com.br"
+        }
+    ],
+
+    "funcionarios":[
+        {
+            "id": 1,
+            "nome": "Lucas Dias",
+            "email": "lucas@ig.com.br"
+        },
+        {
+            "id": 2,
+            "nome": "André Maicon",
+            "email": "andre_mmm@ig.com.br"
+        },
+        {
+            "id": 3,
+            "nome": "Maria Madre",
+            "email": "madre_maria@ig.com.br"
+        }
+    ]
+}
